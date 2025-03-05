@@ -148,5 +148,104 @@ background: rgba(82, 195, 3, 0.15);
     text-align: center;
 }
 
+p{
+    text-align: center;
+}
+
+
+
+/* 3rd picture */
+
+
+#life{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+#life>.image2-box img{
+    width: 537px; 
+    height: 375px;
+}
+
+#life>.image2-box{
+
+}
+
+#life>.toha{
+    margin-left: 40px;
+}
+
+#life>.toha>.part-2>.content-box>.taba{
+color: rgb(16, 16, 16);
+font-family: Work Sans;
+font-size: 28px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0%;
+text-align: center;
+width: 450px;
+height: 72px;
+flex-direction: column;
+gap: 24px;
+}
+
+
+#life>.toha>.part-2>.content-box>.tab{
+    color: rgb(16, 16, 16);
+    font-family: Work Sans;
+    font-size: 14px;
+    font-weight: 500px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    margin: 14px 0px;
+    gap: 16px;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.8;
+    flex: none;
+}
+
+#life>.toha>.part-2>.content-box>.ta{
+    color: rgb(16, 16, 16);
+    font-family: Work Sans;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 25px;
+    letter-spacing: 0%;
+    text-align: center;
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 10;
+padding: 30px 10px 30px 10px;
+}
+
+#life>.toha>.part-2>.small-images img{
+    height: 20px;
+    width: 30px;
+    gap: 20px;
+    margin-right: 20px;
+}
+
+
+#life>.toha>.part-2>.small-images{
+flex-direction: row;
+justify-content: flex-start;
+gap: 12;
+padding: 0px;
+align-items: center;
+text-align: center;
+justify-content: center;
+margin-left: 25px;
+}
+
+
 
 
